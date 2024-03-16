@@ -22,7 +22,7 @@ function About() {
               <span className="heading2 px-2">Who i am</span>
             </h4>
            
-           <div className="col-md-6 aboutText px-5 mt-5 order-lg-1 order-2">
+           <div className="col-md-6 aboutText px-lg-5 mt-5 order-lg-1 order-2">
             <h3> Hii Everyone, I'm <span className="highlight3">Saksham Shrivastava</span> from <span className="highlight3">Gwalior, India.</span></h3>
             <h3>I am currently a 3rd-year B.C.A. student at Adarsh Science College, Gwalior. Moreover, I have a strong interest in <span className="highlight3">Web development</span>.</h3> 
             <h3>I aspire to become a proficient web developer and make a positive impact by creating innovative and user-centric online experiences.</h3>
