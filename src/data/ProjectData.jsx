@@ -74,7 +74,7 @@ const Projectdata = [
             "https://img.icons8.com/color/96/000000/react-native.png",
         ],
         demo: "http://sakshamportfolio2k3.netlify.app",
-        source : "https://github.com/Saksham2k3s/Myportfolio"
+        source : "https://github.com/Saksham2k3s/My_Portfolio"
     },
     {
         image : addmissionportalimg,
